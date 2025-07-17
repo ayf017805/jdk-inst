@@ -1,2 +1,2 @@
 # jdk-inst
-JDK Installer
+JDK 在线安装
